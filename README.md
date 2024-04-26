@@ -1,2 +1,3 @@
-# innopol.phystech.radar
-Иннопол/Phystech Radar Tech Challenge
+# Решение Иннопол [Phystech Radar Tech Challenge]
+---
+
